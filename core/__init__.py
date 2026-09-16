@@ -1,0 +1,1 @@
+"""Stable JARVIS application core."""

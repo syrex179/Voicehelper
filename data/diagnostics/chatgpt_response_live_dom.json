@@ -1,0 +1,684 @@
+{
+  "probe_status": "RESPONSE_NOT_OBSERVED",
+  "request_sent": true,
+  "assistant_marked": false,
+  "main_descendants": 350,
+  "structural_candidate_count": 57,
+  "structure": {
+    "page_status": "READY",
+    "main_visible": true,
+    "main_structure": {
+      "tag": "MAIN",
+      "role": "NOT_AVAILABLE",
+      "aria_label": "ChatGPT",
+      "class_names": [
+        "xxaerdg",
+        "xnpn0wm",
+        "x15gc17c",
+        "xty8pnf",
+        "x1xb4iq2",
+        "xm70gm8",
+        "x1jgnx5a",
+        "xlqepax"
+      ],
+      "visible": true,
+      "text_length": 408,
+      "parent_tag": "DIV",
+      "parent_class_names": [
+        "xjp7ctv"
+      ],
+      "data_attributes": [
+        "data-app-shell",
+        "data-mobile-shell"
+      ],
+      "data_author_role": "NOT_AVAILABLE"
+    },
+    "selector_counts": {
+      "main": 2,
+      "role_main": 0,
+      "article": 0,
+      "role_article": 0,
+      "markdown": 0,
+      "message": 0,
+      "conversation_turn": 0,
+      "author_role": 0
+    },
+    "candidate_count": 20,
+    "candidate_structures": [
+      {
+        "tag": "DIV",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "x1dr59a3",
+          "x10jehdc",
+          "xdl72j9",
+          "x1iyjqo2",
+          "xs83m0k",
+          "x67ebes",
+          "xh8yej3",
+          "xc8icb0"
+        ],
+        "visible": true,
+        "text_length": 408,
+        "parent_tag": "MAIN",
+        "parent_class_names": [
+          "xxaerdg",
+          "xnpn0wm",
+          "x15gc17c",
+          "xty8pnf",
+          "x1xb4iq2",
+          "xm70gm8",
+          "x1jgnx5a",
+          "xlqepax"
+        ],
+        "data_attributes": [
+          "data-octane-shell-layout",
+          "data-testid",
+          "data-desktop-layout"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "DIV",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "x5yr21d",
+          "xrvj5dj",
+          "x67ebes",
+          "xh8yej3",
+          "x1o0tod",
+          "x2lwn1j",
+          "xeuugli",
+          "x7giv3"
+        ],
+        "visible": true,
+        "text_length": 408,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "x1dr59a3",
+          "x10jehdc",
+          "xdl72j9",
+          "x1iyjqo2",
+          "xs83m0k",
+          "x67ebes",
+          "xh8yej3",
+          "xc8icb0"
+        ],
+        "data_attributes": [
+          "data-desktop-visual-viewport"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "ASIDE",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "REDACTED",
+        "class_names": [
+          "x7973hj",
+          "x5yr21d",
+          "xfal59e",
+          "x18b5jzi",
+          "x1lun4ml",
+          "x2lwn1j",
+          "x1a2a7pz",
+          "xb3r6kr"
+        ],
+        "visible": true,
+        "text_length": 284,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "xjp7ctv"
+        ],
+        "data_attributes": [
+          "data-octane-sidebar-pane",
+          "data-desktop-sidebar",
+          "data-swipe-list-pane"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "DIV",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "x1lliihq",
+          "x5yr21d",
+          "x1us19tq",
+          "xwms9i0",
+          "x1u6ievf",
+          "xvkm05w",
+          "xtgieia",
+          "x19s4qmo"
+        ],
+        "visible": true,
+        "text_length": 284,
+        "parent_tag": "ASIDE",
+        "parent_class_names": [
+          "x7973hj",
+          "x5yr21d",
+          "xfal59e",
+          "x18b5jzi",
+          "x1lun4ml",
+          "x2lwn1j",
+          "x1a2a7pz",
+          "xb3r6kr"
+        ],
+        "data_attributes": [
+          "data-swipe-list-visual",
+          "data-swipe-pane-visual"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "A",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "Новый чат",
+        "class_names": [
+          "x6s0dn4",
+          "xjyslct",
+          "x1yt6v20",
+          "x1poe1h0",
+          "x1wlq0er",
+          "xng3xce",
+          "xc342km",
+          "x9f619"
+        ],
+        "visible": true,
+        "text_length": 9,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "x1cho1rl",
+          "xz472uy",
+          "x7973hj",
+          "x5yr21d",
+          "x8dqpqg",
+          "xrvj5dj",
+          "xe36ncq",
+          "x15dxt7r"
+        ],
+        "data_attributes": [
+          "data-icon-position",
+          "data-icon-shape",
+          "data-mobile-new-chat",
+          "data-octane-navigation-item",
+          "data-radius",
+          "data-size",
+          "data-variant",
+          "data-w-component"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "SPAN",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "xt0psk2",
+          "x14d5758",
+          "xeuugli",
+          "x1b2iylo",
+          "xwgcxoh",
+          "xuxw1ft"
+        ],
+        "visible": true,
+        "text_length": 9,
+        "parent_tag": "SPAN",
+        "parent_class_names": [
+          "xjp7ctv"
+        ],
+        "data_attributes": [
+          "data-button-label"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "DIV",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "xfk6m8",
+          "x2lwn1j",
+          "x1odjw0f",
+          "x1rohswg",
+          "x1nkj2r4",
+          "x2yie3v",
+          "xc7fvus",
+          "x1q57ora"
+        ],
+        "visible": true,
+        "text_length": 95,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "x1cho1rl",
+          "xz472uy",
+          "x7973hj",
+          "x5yr21d",
+          "x8dqpqg",
+          "xrvj5dj",
+          "xe36ncq",
+          "x15dxt7r"
+        ],
+        "data_attributes": [],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "NAV",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "REDACTED",
+        "class_names": [
+          "xrvj5dj",
+          "x1j2yrl1",
+          "x1azbkut",
+          "xvh977a",
+          "xcft484",
+          "x1nc4s48"
+        ],
+        "visible": true,
+        "text_length": 95,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "xfk6m8",
+          "x2lwn1j",
+          "x1odjw0f",
+          "x1rohswg",
+          "x1nkj2r4",
+          "x2yie3v",
+          "xc7fvus",
+          "x1q57ora"
+        ],
+        "data_attributes": [],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "BUTTON",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "REDACTED",
+        "class_names": [
+          "x9r1u3d",
+          "x1gnnqk1",
+          "x9f619",
+          "xpj7pl4",
+          "xl56j7k",
+          "x1q51uy1",
+          "x1n2onr6",
+          "x1b2iylo"
+        ],
+        "visible": true,
+        "text_length": 11,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "xrvj5dj",
+          "xvh977a",
+          "xcft484",
+          "xvcwwgp"
+        ],
+        "data_attributes": [
+          "data-icon-position",
+          "data-icon-shape",
+          "data-mobile-auth-entry-action",
+          "data-mobile-auth-entry-point",
+          "data-mobile-auth-entry-trigger",
+          "data-octane-navigation-item",
+          "data-octane-product-card-interaction",
+          "data-octane-product-card-placement"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "SPAN",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "xpugu0j",
+          "xeuugli",
+          "x101abm8",
+          "xryxfnj",
+          "x1b2iylo",
+          "xwgcxoh",
+          "xlyipyv",
+          "xuxw1ft"
+        ],
+        "visible": true,
+        "text_length": 11,
+        "parent_tag": "BUTTON",
+        "parent_class_names": [
+          "x9r1u3d",
+          "x1gnnqk1",
+          "x9f619",
+          "xpj7pl4",
+          "xl56j7k",
+          "x1q51uy1",
+          "x1n2onr6",
+          "x1b2iylo"
+        ],
+        "data_attributes": [
+          "data-button-label"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "A",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "REDACTED",
+        "class_names": [
+          "x9r1u3d",
+          "x1gnnqk1",
+          "x9f619",
+          "xpj7pl4",
+          "xl56j7k",
+          "x1q51uy1",
+          "x1n2onr6",
+          "x1b2iylo"
+        ],
+        "visible": true,
+        "text_length": 11,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "xrvj5dj",
+          "xvh977a",
+          "xcft484",
+          "xvcwwgp"
+        ],
+        "data_attributes": [
+          "data-icon-position",
+          "data-icon-shape",
+          "data-octane-navigation-item",
+          "data-radius",
+          "data-size",
+          "data-variant",
+          "data-w-component"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "SPAN",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "xpugu0j",
+          "xeuugli",
+          "x101abm8",
+          "xryxfnj",
+          "x1b2iylo",
+          "xwgcxoh",
+          "xlyipyv",
+          "xuxw1ft"
+        ],
+        "visible": true,
+        "text_length": 11,
+        "parent_tag": "SPAN",
+        "parent_class_names": [
+          "xjp7ctv",
+          "x5n2h75"
+        ],
+        "data_attributes": [
+          "data-button-label"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "A",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "REDACTED",
+        "class_names": [
+          "x9r1u3d",
+          "x1gnnqk1",
+          "x9f619",
+          "xpj7pl4",
+          "xl56j7k",
+          "x1q51uy1",
+          "x1n2onr6",
+          "x1b2iylo"
+        ],
+        "visible": true,
+        "text_length": 7,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "xrvj5dj",
+          "xvh977a",
+          "xcft484",
+          "xvcwwgp"
+        ],
+        "data_attributes": [
+          "data-icon-position",
+          "data-icon-shape",
+          "data-octane-navigation-item",
+          "data-radius",
+          "data-size",
+          "data-variant",
+          "data-w-component"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "SPAN",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "xpugu0j",
+          "xeuugli",
+          "x101abm8",
+          "xryxfnj",
+          "x1b2iylo",
+          "xwgcxoh",
+          "xlyipyv",
+          "xuxw1ft"
+        ],
+        "visible": true,
+        "text_length": 7,
+        "parent_tag": "SPAN",
+        "parent_class_names": [
+          "xjp7ctv",
+          "x5n2h75"
+        ],
+        "data_attributes": [
+          "data-button-label"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "BUTTON",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "REDACTED",
+        "class_names": [
+          "x9r1u3d",
+          "x1gnnqk1",
+          "x9f619",
+          "xpj7pl4",
+          "xl56j7k",
+          "x1q51uy1",
+          "x1n2onr6",
+          "x1b2iylo"
+        ],
+        "visible": true,
+        "text_length": 21,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "xrvj5dj",
+          "xvh977a",
+          "xcft484",
+          "xvcwwgp"
+        ],
+        "data_attributes": [
+          "data-icon-position",
+          "data-icon-shape",
+          "data-mobile-auth-entry-action",
+          "data-mobile-auth-entry-point",
+          "data-mobile-auth-entry-trigger",
+          "data-octane-navigation-item",
+          "data-octane-product-card-interaction",
+          "data-octane-product-card-placement"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "SPAN",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "xpugu0j",
+          "xeuugli",
+          "x101abm8",
+          "xryxfnj",
+          "x1b2iylo",
+          "xwgcxoh",
+          "xlyipyv",
+          "xuxw1ft"
+        ],
+        "visible": true,
+        "text_length": 21,
+        "parent_tag": "BUTTON",
+        "parent_class_names": [
+          "x9r1u3d",
+          "x1gnnqk1",
+          "x9f619",
+          "xpj7pl4",
+          "xl56j7k",
+          "x1q51uy1",
+          "x1n2onr6",
+          "x1b2iylo"
+        ],
+        "data_attributes": [
+          "data-button-label"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "A",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "REDACTED",
+        "class_names": [
+          "x9r1u3d",
+          "x1gnnqk1",
+          "x9f619",
+          "xpj7pl4",
+          "xl56j7k",
+          "x1q51uy1",
+          "x1n2onr6",
+          "x1b2iylo"
+        ],
+        "visible": true,
+        "text_length": 23,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "x12ebhko",
+          "xrvj5dj",
+          "x1ejq31n",
+          "x1mn2ya5",
+          "x972fbf",
+          "x1nwdk5h",
+          "xvh977a",
+          "xcft484"
+        ],
+        "data_attributes": [
+          "data-icon-position",
+          "data-icon-shape",
+          "data-octane-navigation-item",
+          "data-radius",
+          "data-size",
+          "data-variant",
+          "data-w-component"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "SPAN",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "xpugu0j",
+          "xeuugli",
+          "x101abm8",
+          "xryxfnj",
+          "x1b2iylo",
+          "xwgcxoh",
+          "xlyipyv",
+          "xuxw1ft"
+        ],
+        "visible": true,
+        "text_length": 23,
+        "parent_tag": "SPAN",
+        "parent_class_names": [
+          "xjp7ctv",
+          "x5n2h75"
+        ],
+        "data_attributes": [
+          "data-button-label"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "BUTTON",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "REDACTED",
+        "class_names": [
+          "x1gnnqk1",
+          "x9f619",
+          "xpj7pl4",
+          "xl56j7k",
+          "x1q51uy1",
+          "x1n2onr6",
+          "x1b2iylo",
+          "xwgcxoh"
+        ],
+        "visible": true,
+        "text_length": 9,
+        "parent_tag": "DIV",
+        "parent_class_names": [
+          "x12ebhko",
+          "xrvj5dj",
+          "x1ejq31n",
+          "x1mn2ya5",
+          "x972fbf",
+          "x1nwdk5h",
+          "xvh977a",
+          "xcft484"
+        ],
+        "data_attributes": [
+          "data-icon-position",
+          "data-icon-shape",
+          "data-mobile-settings-trigger",
+          "data-radius",
+          "data-size",
+          "data-variant",
+          "data-w-component"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      },
+      {
+        "tag": "SPAN",
+        "role": "NOT_AVAILABLE",
+        "aria_label": "NOT_AVAILABLE",
+        "class_names": [
+          "xpugu0j",
+          "xeuugli",
+          "x101abm8",
+          "xryxfnj",
+          "x1b2iylo",
+          "xwgcxoh",
+          "xlyipyv",
+          "xuxw1ft"
+        ],
+        "visible": true,
+        "text_length": 9,
+        "parent_tag": "BUTTON",
+        "parent_class_names": [
+          "x1gnnqk1",
+          "x9f619",
+          "xpj7pl4",
+          "xl56j7k",
+          "x1q51uy1",
+          "x1n2onr6",
+          "x1b2iylo",
+          "xwgcxoh"
+        ],
+        "data_attributes": [
+          "data-button-label"
+        ],
+        "data_author_role": "NOT_AVAILABLE"
+      }
+    ]
+  }
+}

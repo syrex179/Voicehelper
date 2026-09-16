@@ -1,0 +1,1 @@
+{"id":"screenshots","name":"Screenshots","version":"1.0.0","description":"Create desktop screenshots","author":"JARVIS","enabled":true,"permissions":["screen_capture","filesystem_write"]}

@@ -1,0 +1,46 @@
+{
+  "page_status": "READY",
+  "main_visible": true,
+  "main_structure": {
+    "tag": "MAIN",
+    "role": "NOT_AVAILABLE",
+    "aria_label": "ChatGPT",
+    "class_names": [
+      "x5mp2zh",
+      "xnpn0wm",
+      "x15gc17c",
+      "xty8pnf",
+      "x1xb4iq2",
+      "xm70gm8",
+      "x1jgnx5a",
+      "xlqepax"
+    ],
+    "visible": true,
+    "text_length": 545,
+    "parent_tag": "DIV",
+    "parent_class_names": [
+      "xjp7ctv"
+    ],
+    "data_attributes": [
+      "data-app-shell",
+      "data-default-home",
+      "data-centered-home-layout",
+      "data-compact-home-layout-eligible",
+      "data-mobile-shell",
+      "data-new-conversation"
+    ],
+    "data_author_role": "NOT_AVAILABLE"
+  },
+  "selector_counts": {
+    "main": 2,
+    "role_main": 0,
+    "article": 0,
+    "role_article": 0,
+    "markdown": 0,
+    "message": 0,
+    "conversation_turn": 0,
+    "author_role": 0
+  },
+  "candidate_count": 0,
+  "candidate_structures": []
+}

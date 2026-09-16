@@ -1,0 +1,1 @@
+{"id":"volume","name":"Volume","version":"1.0.0","description":"Windows master volume","author":"JARVIS","enabled":true,"permissions":["system_audio"]}

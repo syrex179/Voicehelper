@@ -1,0 +1,1 @@
+{"id":"applications","name":"Applications","version":"1.0.0","description":"Launch Windows applications","author":"JARVIS","enabled":true,"permissions":["launch_apps"]}

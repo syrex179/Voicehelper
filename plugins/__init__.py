@@ -1,0 +1,1 @@
+"""Bundled JARVIS capability plugins."""

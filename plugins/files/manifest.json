@@ -1,0 +1,1 @@
+{"id":"files","name":"Files","version":"1.0.0","description":"Open common folders and find files","author":"JARVIS","enabled":true,"permissions":["filesystem_read"]}
